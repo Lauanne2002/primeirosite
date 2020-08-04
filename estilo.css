@@ -1,0 +1,25 @@
+html, body{
+    margin: 0;
+}
+#imagem_fundo {
+    background:url("2DE0434C07FC228FA316C28259556D76F36BCE8A617F430B14DD57729E831682.jpg");
+    height: 100%;
+    text-align:center;
+    position: relative;
+    background-size: cover;
+}
+#título{
+    color:black;
+    padding-top: 20%;
+    font-size: 70px;
+}
+#subtítulo{
+    color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#acao{
+    color: black;
+    border: 1px black solid;
+    padding: 10px 20px 10px 20px;
+}
